@@ -1,4 +1,4 @@
-URL_SERVICE = "https://cnt-47edd62a-9095-40ce-8177-c683429d298f.containerhub.tripleten-services.com"
+URL_SERVICE = "https://cnt-cd0191ad-8542-4e0d-b53c-24f060365dab.containerhub.tripleten-services.com"
 
 DOC_PATH = "/docs/"
 
